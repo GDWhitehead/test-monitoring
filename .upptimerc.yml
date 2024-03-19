@@ -9,7 +9,7 @@ sites:
     method: GET
     url: https://services-smoke.knet.keoghs.co.uk/metrics/metricsapi/v1/team-metrics
     headers:
-      - "Ocp-Apim-Subscription-Key: c7b1185db9ad4b869779de46eb8df4de"
+      - "Ocp-Apim-Subscription-Key: $SUB_KEY"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
