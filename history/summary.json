@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 89,
+    "timeDay": 89,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Keoghs Sample Api",
-    "url": "https://keo-uks-fasample-smk-f01.azurewebsites.net/api/ExampleHttpTriggerFunction?code=CC7v2vUhsxYqsqF-9n4BFVvS8gA-VTpANFc77Rm8X7ftAzFuExrKzw==",
-    "icon": "https://icons.duckduckgo.com/ip3/keo-uks-fasample-smk-f01.azurewebsites.net.ico",
-    "slug": "keoghs-sample-api",
-    "status": "down",
-    "uptime": "6.63%",
-    "uptimeDay": "6.63%",
-    "uptimeWeek": "6.63%",
-    "uptimeMonth": "6.63%",
-    "uptimeYear": "6.63%",
-    "time": 416,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
-    "dailyMinutesDown": {
-      "2024-03-19": 0
-    }
   }
 ]
