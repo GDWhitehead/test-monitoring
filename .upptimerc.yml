@@ -11,6 +11,11 @@ sites:
     headers:
       - "Ocp-Apim-Subscription-Key: $SUB_KEY"
       - "Content-Type: application/json"
+  - name: Sanbox test
+    method: GET
+    url: https://keoghspocopenapiproviderapi.azure-api.net/v1/v1/animals
+    headers:
+      - "Ocp-Apim-Subscription-Key: $SUB_KEY_SB"
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
