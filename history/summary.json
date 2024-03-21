@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 72,
+    "timeDay": 71,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
@@ -34,9 +34,29 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 66,
+      "2024-03-21": 603,
       "2024-03-20": 1440,
       "2024-03-19": 612
+    }
+  },
+  {
+    "name": "Sanbox test",
+    "url": "https://keoghspocopenapiproviderapi.azure-api.net/v1/v1/animals",
+    "icon": "https://icons.duckduckgo.com/ip3/keoghspocopenapiproviderapi.azure-api.net.ico",
+    "slug": "sanbox-test",
+    "status": "down",
+    "uptime": "13.99%",
+    "uptimeDay": "13.99%",
+    "uptimeWeek": "13.99%",
+    "uptimeMonth": "13.99%",
+    "uptimeYear": "13.99%",
+    "time": 659,
+    "timeDay": 659,
+    "timeWeek": 659,
+    "timeMonth": 659,
+    "timeYear": 659,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
     }
   }
 ]
