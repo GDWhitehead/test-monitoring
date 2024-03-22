@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-22": 660,
+      "2024-03-22": 677,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 612
@@ -45,19 +45,19 @@
     "url": "https://keoghspocopenapiproviderapi.azure-api.net/v1/v1/animals",
     "icon": "https://icons.duckduckgo.com/ip3/keoghspocopenapiproviderapi.azure-api.net.ico",
     "slug": "sanbox-test",
-    "status": "down",
-    "uptime": "61.22%",
-    "uptimeDay": "62.35%",
-    "uptimeWeek": "61.22%",
-    "uptimeMonth": "61.22%",
-    "uptimeYear": "61.22%",
-    "time": 494,
-    "timeDay": 485,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "status": "up",
+    "uptime": "60.54%",
+    "uptimeDay": "61.19%",
+    "uptimeWeek": "60.54%",
+    "uptimeMonth": "60.54%",
+    "uptimeYear": "60.54%",
+    "time": 492,
+    "timeDay": 484,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-03-22": 141,
+      "2024-03-22": 158,
       "2024-03-21": 438
     }
   }
