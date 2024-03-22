@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 1420,
+      "2024-03-22": 64,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 612
     }
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keoghspocopenapiproviderapi.azure-api.net.ico",
     "slug": "sanbox-test",
     "status": "up",
-    "uptime": "46.20%",
-    "uptimeDay": "46.20%",
-    "uptimeWeek": "46.20%",
-    "uptimeMonth": "46.20%",
-    "uptimeYear": "46.20%",
+    "uptime": "51.25%",
+    "uptimeDay": "51.25%",
+    "uptimeWeek": "51.25%",
+    "uptimeMonth": "51.25%",
+    "uptimeYear": "51.25%",
     "time": 512,
     "timeDay": 512,
     "timeWeek": 512,
