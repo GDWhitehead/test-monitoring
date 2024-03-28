@@ -1,7 +1,7 @@
 url: https://keoghspocopenapiproviderapi.azure-api.net/v1/v1/animals
-status: down
-code: 401
-responseTime: 390
-lastUpdated: 2024-03-28T06:33:29.578Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2024-03-28T06:46:00.733Z
 startTime: 2024-03-21T10:03:06.021Z
 generator: Upptime <https://github.com/upptime/upptime>
